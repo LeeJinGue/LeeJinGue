@@ -8,7 +8,6 @@ My name is 이진규
 [![Instgram Badge](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&link=https://www.instagram.com/jingyu9851/)](https://www.instagram.com/jingyu9851/)
 
 ## Framework
-<hr/>
 
 - Used <img alt="Flutter" src ="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
 <br/>
@@ -16,7 +15,6 @@ My name is 이진규
 - Learning <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 
 ## Language
-<hr/>
 
 - Used <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
 <br/>
