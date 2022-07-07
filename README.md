@@ -16,7 +16,7 @@ My name is 이진규
 
 ## Language
 
-- Used <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/><img alt="Java" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/><img alt="Java" src ="https://img.shields.io/badge/Java-F0047F.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+- Used <img alt="Dart" src ="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-F0047F.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <br/>
 
 - Learning <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
