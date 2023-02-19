@@ -2,7 +2,8 @@
 My name is 이진규
 
 ## Front-End Engineer
-- 🌱 I’m currently learning FastCampus
+- 🏆 I’v learned FastCampus
+- 👀 I’m between jobs
 - 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:hippo9851@gmail.com)
 [![Instgram Badge](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&link=https://www.instagram.com/jingyu9851/)](https://www.instagram.com/jingyu9851/)
