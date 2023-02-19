@@ -12,7 +12,7 @@ My name is 이진규
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB.svg?&style=for-the-badge&logo=React.js&logoColor=white"
+<img alt="React.js" src="https://img.shields.io/badge/React.js-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"
 <br/>
 
@@ -21,8 +21,8 @@ My name is 이진규
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-F0047F.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
 <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> 
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black"/>
-<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=black"/>
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/>
+<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
 <br/>
 
 ## Skill
